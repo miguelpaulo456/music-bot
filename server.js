@@ -1,5 +1,8 @@
 const messenger = require("./sources/messenger.js");
 
+FB_EMAIL=gomasfini456@gmail.com
+FB_PASS=batmanhr233
+
 const spotify = require("./parsers/spotify.js");
 const soundcloud = require("./parsers/soundcloud.js");
 const applemusic = require("./parsers/applemusic.js");
